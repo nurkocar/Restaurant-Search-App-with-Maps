@@ -25,7 +25,7 @@
       
       <meta-data
     android:name="com.google.android.geo.API_KEY"
-    android:value="AIzaSyCrdtOtQ8zsEvqy6ml-PXYCfMX7_nffgjA"/>
+    android:value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/> // Here goes your own API key
 
       <uses-library android:name="org.apache.http.legacy" android:required="false"/>
     </application>
